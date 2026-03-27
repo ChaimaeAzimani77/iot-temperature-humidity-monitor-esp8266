@@ -36,7 +36,7 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - **Câbles de connexion**
 
 ## 🔗 Schéma de câblage :
-![Schéma câblage](images/schema.png)
+![Schéma câblage](Images/schema.png)
 
 ## 💻 Partie Logicielle (Software) :
 
@@ -71,16 +71,20 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 ## 🔨 Réalisation du Prototype :
 
 ### Étape 1 — Test sur breadboard :
-![Breadboard](images/breadboard.png)
+![Breadboard](Images/68433dd9-9ea0-4103-9159-b7355f4e8db8.jpg)
 
 ### Étape 2 — Développement Web :
-![Interface Web](images/web.png)
+![Interface Web](Images/b6ed3235-af6b-4ad9-a6a5-65fad1db9a50.jpg)
 
 ### Étape 3 — Conception PCB :
-![PCB Design](images/pcb.png)
+<p float="left">
+  <img src="Images/2.png" width="30%"/>
+  <img src="Images/1.png" width="30%"/>
+  <img src="Images/3.png" width="30%"/>
+</p>
 
 ### Étape 4 — Réalisation finale :
-![PCB Final](images/final.png)
+![PCB Final](Images/1c64de86-eaaa-49a5-92b7-8e5ba8d15193.jpg)
 
 ## 📊 Résultats :
 - Système fonctionnel en temps réel
