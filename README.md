@@ -25,8 +25,6 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Une version avancée intègre des graphiques dynamiques
 - 🚨 Une alerte Telegram est envoyée automatiquement si la température dépasse un seuil défini
 
----
-
 ## 🛠️ Partie Matérielle (Hardware) :
 
 ## 🔌 Composants utilisés :
@@ -37,12 +35,8 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - **PCB** (version finale)
 - **Câbles de connexion**
 
----
-
 ## 🔗 Schéma de câblage :
 ![Schéma câblage](images/schema.png)
-
----
 
 ## 💻 Partie Logicielle (Software) :
 
@@ -54,7 +48,12 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 | **FlatCAM** | Génération des fichiers de fabrication PCB |
 | **Chart.js** | Visualisation graphique des données |
 
----
+## 🚨 Système d’alerte Telegram :
+
+- Surveillance automatique de la température
+- Seuil critique défini (ex : 35°C)
+- Envoi d’une notification instantanée via Telegram
+- Permet une réaction rapide en cas de dépassement
 
 ## ⚙️ Logique du système :
 
@@ -68,8 +67,6 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Intégration de graphiques dynamiques
 - Mise à jour en temps réel
 - Interface utilisateur améliorée
-
----
 
 ## 🔨 Réalisation du Prototype :
 
@@ -85,23 +82,17 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 ### Étape 4 — Réalisation finale :
 ![PCB Final](images/final.png)
 
----
-
 ## 📊 Résultats :
 - Système fonctionnel en temps réel
 - Affichage des données via interface Web
 - Visualisation graphique dynamique
 - Solution stable après intégration PCB
 
----
-
 ## 🚀 Améliorations possibles :
 - 📱 Développement d’une application mobile
 - 🔐 Sécurisation des communications (HTTPS / MQTT)
 - 📊 Stockage et analyse des données historiques
 - 🤖 Détection intelligente des anomalies (IA)
-
----
 
 ## 🚀 Conclusion
 Solution IoT simple, efficace et évolutive permettant la surveillance en temps réel des conditions environnementales.
