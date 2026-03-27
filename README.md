@@ -54,6 +54,8 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Seuil critique défini (ex : 35°C)
 - Envoi d’une notification instantanée via Telegram
 - Permet une réaction rapide en cas de dépassement
+![Alerte Telegram](Images/notification.png)
+
 
 ## ⚙️ Logique du système :
 
