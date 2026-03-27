@@ -25,6 +25,8 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Une version avancée intègre des graphiques dynamiques
 - 🚨 Une alerte Telegram est envoyée automatiquement si la température dépasse un seuil défini
 
+---
+
 ## 🛠️ Partie Matérielle (Hardware) :
 
 ## 🔌 Composants utilisés :
@@ -35,18 +37,28 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - **PCB** (version finale)
 - **Câbles de connexion**
 
+---
+
 ## 🔗 Schéma de câblage :
-![Schéma câblage](Images/schema.png)
+
+<p align="center">
+  <img src="Images/schema.png" width="500"/>
+</p>
+
+---
 
 ## 💻 Partie Logicielle (Software) :
 
 ## 🧾 Outils utilisés :
+
 | Logiciels | Utilisations |
 |---|---|
 | **Arduino IDE** | Programmation de l’ESP8266 |
 | **EasyEDA** | Conception du PCB |
 | **FlatCAM** | Génération des fichiers de fabrication PCB |
 | **Chart.js** | Visualisation graphique des données |
+
+---
 
 ## 🚨 Système d’alerte Telegram :
 
@@ -55,8 +67,11 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Envoi d’une notification instantanée via Telegram
 - Permet une réaction rapide en cas de dépassement
 
-![Alerte Telegram](Images/notification.png)
+<p align="center">
+  <img src="Images/notification.png" width="300"/>
+</p>
 
+---
 
 ## ⚙️ Logique du système :
 
@@ -71,23 +86,33 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Mise à jour en temps réel
 - Interface utilisateur améliorée
 
+---
+
 ## 🔨 Réalisation du Prototype :
 
 ### Étape 1 — Test sur breadboard :
-![Breadboard](Images/68433dd9-9ea0-4103-9159-b7355f4e8db8.jpg)
+<p align="center">
+  <img src="Images/68433dd9-9ea0-4103-9159-b7355f4e8db8.jpg" width="400"/>
+</p>
 
 ### Étape 2 — Développement Web :
-![Interface Web](Images/b6ed3235-af6b-4ad9-a6a5-65fad1db9a50.jpg)
+<p align="center">
+  <img src="Images/b6ed3235-af6b-4ad9-a6a5-65fad1db9a50.jpg" width="400"/>
+</p>
 
 ### Étape 3 — Conception PCB :
-<p float="left">
+<p align="center">
   <img src="Images/2.png" width="30%"/>
   <img src="Images/1.png" width="30%"/>
   <img src="Images/3.png" width="30%"/>
 </p>
 
 ### Étape 4 — Réalisation finale :
-![PCB Final](Images/1c64de86-eaaa-49a5-92b7-8e5ba8d15193.jpg)
+<p align="center">
+  <img src="Images/1c64de86-eaaa-49a5-92b7-8e5ba8d15193.jpg" width="400"/>
+</p>
+
+---
 
 ## 📊 Résultats :
 - Système fonctionnel en temps réel
@@ -95,11 +120,16 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Visualisation graphique dynamique
 - Solution stable après intégration PCB
 
+---
+
 ## 🚀 Améliorations possibles :
 - 📱 Développement d’une application mobile
 - 🔐 Sécurisation des communications (HTTPS / MQTT)
 - 📊 Stockage et analyse des données historiques
 - 🤖 Détection intelligente des anomalies (IA)
+- 🔔 Notifications multi-plateformes (Email, SMS)
+
+---
 
 ## 🚀 Conclusion
 Solution IoT simple, efficace et évolutive permettant la surveillance en temps réel des conditions environnementales.
