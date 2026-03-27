@@ -23,6 +23,7 @@ La surveillance des conditions environnementales en temps réel est essentielle 
 - Les données sont envoyées via Wi-Fi
 - Une interface Web permet l’affichage en temps réel
 - Une version avancée intègre des graphiques dynamiques
+- 🚨 Une alerte Telegram est envoyée automatiquement si la température dépasse un seuil défini
 
 ---
 
