@@ -7,8 +7,8 @@
 #include <DHT.h>
 
 // === Informations Wi-Fi ===
-const char* ssid = "R15-7929";
-const char* password = "gwtgm64867";
+const char* ssid = "--------";
+const char* password = "************";
 
 // === Configuration du capteur DHT ===
 #define DHTPIN 5           // Broche D1 = GPIO5
