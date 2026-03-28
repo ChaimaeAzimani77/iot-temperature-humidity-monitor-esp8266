@@ -1,5 +1,7 @@
 # 🌡️ IoT Temperature & Humidity Monitoring System
 
+> **Mini-Projet IoT** — ENSA d'Oujda | Filière GSEIR-3 | 2024/2025
+
 ## 📝 Description :
 Ce projet consiste à concevoir et réaliser un système IoT capable de mesurer la température et l’humidité en temps réel à l’aide d’un ESP8266 et d’un capteur DHT11, avec affichage via une interface Web.
 
